@@ -41,3 +41,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
 2. \[IEEE TKDE 2020\] **Deep Learning on Graphs: A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
 3. \[AI Open\] **Graph Neural Networks: A Review of Methods and Applications.** [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
+
+## Related Github Repos
+1. **Awesome Federated Learning** [Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+2. **Must-read papers on GNN** [Link](https://github.com/thunlp/GNNPapers)
