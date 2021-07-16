@@ -14,12 +14,12 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 5. \[Arxiv 2021\] **FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.** [paper](https://arxiv.org/pdf/2102.04925)
 6. \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
 7. \[Arxiv 2021\] **FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search.** [paper](https://arxiv.org/pdf/2104.04141)
-8. \[Arxiv 2021\] **Cluster-driven Graph Federated Learning over Multiple Domains.** [paper](https://arxiv.org/pdf/2104.14628)
+8. \[CVPR 2021 Workshop\] **Cluster-driven Graph Federated Learning over Multiple Domains.** [paper](https://arxiv.org/pdf/2104.14628)
 9. \[Arxiv 2021\] **FedGL: Federated Graph Learning Framework with Global Self-Supervision.** [paper](https://arxiv.org/pdf/2105.03170)
 10. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
 11. \[Arxiv 2021\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02743)
 12. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
-13. \[KDD 2021\] **Cross-Node Federated Graph Neural Network for Spatio-temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
+13. \[KDD 2021 to appear\] **Cross-Node Federated Graph Neural Network for Spatio-temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
