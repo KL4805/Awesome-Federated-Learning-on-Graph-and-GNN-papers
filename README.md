@@ -20,6 +20,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 11. \[Arxiv 2021\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02743)
 12. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
 13. \[KDD 2021 to appear\] **Cross-Node Federated Graph Neural Network for Spatio-temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
+14. \[Arxiv 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423.pdf)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
