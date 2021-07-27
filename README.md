@@ -38,6 +38,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
 2. \[ACM TIST 2019\] **Federated Machine Learning Concept and Applications.** [paper](https://arxiv.org/pdf/1902.04885)
 3. \[IEEE Communications Surveys & Tutorials 2020\] **Federated Learning in Mobile Edge Networks A Comprehensive Survey.** [paper](https://arxiv.org/pdf/1909.11875)
+4. \[Arxiv 2019\] **Advances and Open Problems in Federated Learning.** [paper](https://arxiv.org/pdf/1912.04977.pdf)
 
 ## Graph Neural Networks: Survey
 1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
