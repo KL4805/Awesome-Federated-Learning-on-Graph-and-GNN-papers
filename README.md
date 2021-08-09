@@ -26,7 +26,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
 2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.** [paper](https://arxiv.org/pdf/2011.11369)
-3. \[Arxiv 2021\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
+3. \[CIKM 2021 to appear.\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
 
 ## Private Graph Neural Networks
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
