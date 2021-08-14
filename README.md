@@ -28,7 +28,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.** [paper](https://arxiv.org/pdf/2011.11369)
 3. \[CIKM 2021 to appear.\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
 
-## Private Graph Neural Networks
+## Privacy-preserving Learning on Graphs
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
 2. \[Arxiv 2020\] **Locally Private Graph Neural Networks.** [paper](https://arxiv.org/pdf/2006.05535)
 3. \[Arxiv 2021\] **Privacy-Preserving Graph Convolutional Networks for Text Classification.** [paper](https://arxiv.org/pdf/2102.09604)
