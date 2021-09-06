@@ -19,7 +19,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 10. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
 11. \[Arxiv 2021\] **SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02743)
 12. \[Arxiv 2021\] **Subgraph Federated Learning with Missing Neighbor Generation.** [paper](https://arxiv.org/pdf/2106.13430)
-13. \[KDD 2021 to appear\] **Cross-Node Federated Graph Neural Network for Spatio-temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
+13. \[KDD 2021\] **Cross-Node Federated Graph Neural Network for Spatio-temporal Data Modeling.** [paper](https://arxiv.org/pdf/2106.05223)
 14. \[Arxiv 2021\] **Federated Graph Classification over Non-IID Graphs.** [paper](https://arxiv.org/pdf/2106.13423.pdf)
 15. \[Arxiv 2021\] **A Vertical Federated Learning Framework for Graph Convolutional Network.** [paper](https://arxiv.org/pdf/2106.11593.pdf)
 16. \[IJCAI 2021 Workshop\] **FedSGC: Federated Simple Graph Convolution for Node Classification.** [paper](http://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_5.pdf)
@@ -36,7 +36,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 3. \[Arxiv 2021\] **Privacy-Preserving Graph Convolutional Networks for Text Classification.** [paper](https://arxiv.org/pdf/2102.09604)
 4. \[Arxiv 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02820)
 5. \[Arxiv 2021\] **Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning.** [paper](https://arxiv.org/pdf/2107.05917.pdf)
-6. \[KDD 2021 to appear\] **Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective.** [paper](https://arxiv.org/pdf/2107.01475.pdf)
+6. \[KDD 2021\] **Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective.** [paper](https://arxiv.org/pdf/2107.01475.pdf)
 
 ## Federated Learning: Survey
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
