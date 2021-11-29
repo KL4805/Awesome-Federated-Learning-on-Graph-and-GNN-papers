@@ -37,10 +37,9 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
 2. \[Arxiv 2020\] **Locally Private Graph Neural Networks.** [paper](https://arxiv.org/pdf/2006.05535)
 3. \[Arxiv 2021\] **Privacy-Preserving Graph Convolutional Networks for Text Classification.** [paper](https://arxiv.org/pdf/2102.09604)
-4. \[Arxiv 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02820)
+4. \[IJCAI 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks.** [paper](https://arxiv.org/pdf/2106.02820)
 5. \[Arxiv 2021\] **Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning.** [paper](https://arxiv.org/pdf/2107.05917.pdf)
 6. \[KDD 2021\] **Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective.** [paper](https://arxiv.org/pdf/2107.01475.pdf)
-7. \[IJCAI 2021\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks** [paper](https://www.ijcai.org/proceedings/2021/0516.pdf)
 
 ## Federated Learning: Survey
 1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
