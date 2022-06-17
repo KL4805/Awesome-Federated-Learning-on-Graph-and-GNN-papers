@@ -30,6 +30,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 21. \[ICCAD 2021-Special Session\] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery** [paper](https://ieeexplore.ieee.org/document/9643440)
 22. \[IJCAI 2022\] **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification** [paper](https://arxiv.org/abs/2005.11903)
 23. \[Nature Communications\] **A federated graph neural network framework for privacy-preserving personalization** [paper](https://www.nature.com/articles/s41467-022-30714-9)
+24. \[KDD 2022\] **FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy** [paper](https://arxiv.org/abs/2205.15896)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
