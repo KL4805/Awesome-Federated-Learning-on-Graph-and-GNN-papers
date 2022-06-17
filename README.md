@@ -32,11 +32,13 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 23. \[Nature Communications\] **A federated graph neural network framework for privacy-preserving personalization** [paper](https://www.nature.com/articles/s41467-022-30714-9)
 24. \[KDD 2022\] **FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy** [paper](https://arxiv.org/abs/2205.15896)
 
+
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
 2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.** [paper](https://arxiv.org/pdf/2011.11369)
 3. \[CIKM 2021\] **Differentially Private Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
 4. \[IJCAI 2022\] **Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting** [paper](https://arxiv.org/abs/2205.04692)
+5. \[ACL 2022 Workshop\] **Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation** [paper](https://arxiv.org/abs/2203.09553)
 
 ## Privacy-preserving Learning on Graphs
 1. \[IEEE Big Data 2019\] **A Graph Neural Network Based Federated Learning Approach by Hiding Structure.** [paper](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
