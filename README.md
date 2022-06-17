@@ -27,6 +27,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 18. \[IEEE TPDS\] **FedGraph: Federated Graph Learning with Intelligent Sampling.** [paper](https://arxiv.org/pdf/2111.01370.pdf)
 19. \[ACM TIST\] **Federated Social Recommendation with Graph Neural Network** [paper](https://arxiv.org/abs/2111.10778)
 20. \[Arxiv 2021\] **PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method** [paper](https://arxiv.org/pdf/2110.12906.pdf)
+21. \[IJCAI 2022\] **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification** [paper](https://arxiv.org/abs/2005.11903)
 
 ## Federated Learning on Knowledge Graph
 1. \[Arxiv 2020\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://arxiv.org/pdf/2010.12882)
